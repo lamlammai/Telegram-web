@@ -1,0 +1,184 @@
+*{
+	margin: 0;
+	height: 0;
+	border: 0;
+}
+body{
+	width: 100%;
+}
+header{
+	width: 100%;
+	height: 50px;
+	border-bottom: 1px solid #E8E8E8;
+}
+header div.container div.container-left{
+	width: 85%;
+	height: 50px;
+	float: left;
+}
+header .container .container-right{
+	width: 15%;
+	height: 50px;
+	float: left;
+}
+header div.container div.container-left a{
+	line-height: 50px;
+	padding: 12px 15px;
+	font-weight: 500;
+	text-decoration: none;
+}
+header div.container div.container-left a:hover{
+	border-bottom: 3px solid #179CDE;
+	color: #179cde;
+}
+header div.container div.container-right a{
+	line-height: 50px;
+	padding: 12px 15px;
+	font-weight: 500;
+	text-decoration: none;
+}
+header div.container div.container-right a:hover{
+	border-bottom: 3px solid #179CDE;
+	color: #179cde;
+}
+section{
+	width: 100%;
+	height: 2750px;
+}
+section div.row div.mt-4 a.logo{
+	text-decoration: none;
+}
+section div.row div.mt-4 a h1.h1{
+	
+	color: #4D4D4D;
+}
+section div.row  div.mt-4 a img{
+	width: 130px;
+	height: 130px;	
+}
+section div.row div.mt-4 p.telegram{
+	padding-top: 45px;
+	font-size: 20px;
+	color: #938C8C;
+}
+section div.row div.news{
+	height: 280px;
+	width: 180px;
+	border-left: 5px solid #0080FF;
+}
+section div.row div.news div.new-1{
+	width: 165px;
+	height: 280px;
+	margin-left: 20px;
+}
+section div.row div.news h5.h5{
+	line-height: 0;
+}
+section div.row div.news p.sep{
+	padding-top: 10px;
+}
+section div.row div.news a{
+	font-weight: 300;
+	padding: 0;
+}
+section div.row div.news a:hover{
+	color: #0097DB;
+}
+section div.row div.mt-3{
+	border: none;
+}
+section div.row div.card{
+	border: none;
+	padding-left: 10px;
+}
+section div.row div.card h6.card-text{
+	padding-left: 45px;
+	margin-top: -30px;
+	color: #0097db;
+}
+section div.row div.mt-3:hover{
+	border-bottom:3px solid #0097db;
+}
+section div.row div.mt-3 div.card a:hover{
+	text-decoration: none;
+}
+
+section div.row div.pt-5 p.card1{
+	font-size: 30px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+section div.row div.pt-5 div.card div.card-body img.picDt{
+	width: 1000px;
+	height: 250px;
+	margin-left:-20px;
+}
+section div.row div.pt-5 div.card div.card-body div.app{
+	width: 500px;
+	height: 30px;
+	margin: auto;
+	margin-top: -20px;
+}
+section div.row div.pt-5 div.card div.card-body div.app a{
+	padding-bottom: 15px;
+}
+section div.row div.pt-5 h6.app1{
+	display: inline-block;
+}
+section div.row div.pt-5 a:hover{
+	border-bottom: 3px solid #0097db;
+}
+section div.container h4.row3{
+	text-align: center;
+	padding-bottom: 20px;
+}
+section div.container div.content-row{
+	width: 910px;
+	height: 280px;
+	margin: auto;
+}
+section div.row img.pic{
+	width: 160px;
+	height: 160px;
+	margin-top:20px;
+}
+section div.row div.card p.text{
+	margin-top: 15px;
+}
+section div.row div.card  p.distribute{
+	font-size: 20px;
+	width: 150px;
+	text-align: center;
+	color: #a19679;
+}
+footer div.content{
+	width:950px;
+	height:150px;
+	margin: auto;
+	border-top: 1px solid #CCCCCC;
+}
+footer div.content div.left{
+	width: 280px;
+	height:150px;
+	padding-left: 20px;
+	float: left;
+}
+footer div.content div.left h6{
+	padding: 10px 0px;
+	margin-top: 10px;
+}
+footer div.content div.right{
+	float: left;
+	width: 670px;
+	height: 150px;
+}
+footer div.content div.right a{
+	display: block;
+	padding-top: 10px;
+	margin-top: 10px;
+}
+footer div.content div.right a.black{
+	color: black;
+}
+
+
